@@ -6,6 +6,9 @@
 グレー変換画像<br>
 ![screenshot](https://github.com/fukuzai/PythonOpenCVPerspectiveTransform/blob/master/Gray.jpg)
 
+二値画像<br>
+![screenshot](https://github.com/fukuzai/PythonOpenCVPerspectiveTransform/blob/master/Bin.jpg)
+
 輪郭画像<br>
 ![screenshot](https://github.com/fukuzai/PythonOpenCVPerspectiveTransform/blob/master/Contours.jpg)
 
