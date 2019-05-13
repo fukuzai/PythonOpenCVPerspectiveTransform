@@ -26,6 +26,7 @@ cv2.destroyAllWindows()
 #二値化
 ret, Bin= cv2.threshold(gray,200,255,cv2.THRESH_BINARY)
 cv2.imshow('Bin', Bin)
+cv2.imwrite('Bin.jpg', Bin)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
